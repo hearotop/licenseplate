@@ -6,15 +6,6 @@
 
 # BlueJ files
 *.ctxt
-codw/codw/.idea
-CodeLicense/.idea
-CodeLicense/.gitignore
-CodeLicense/static
-
-*.mp4
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -25,6 +16,34 @@ CodeLicense/static
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Python compiled files and cache directories
+*.pyc
+__pycache__/
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Video files
+*.mp4
+
+# Static resources
+CodeLicense/static/
+
+# Ignore specific directories
+codw/codw/.idea
