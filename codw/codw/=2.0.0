@@ -1,0 +1,7 @@
+Looking in indexes: https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+Collecting shapely
+  Downloading https://mirrors.tuna.tsinghua.edu.cn/pypi/web/packages/d5/7d/9a57e187cbf2fbbbdfd4044a4f9ce141c8d221f9963750d3b001f0ec080d/shapely-2.0.6-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.5/2.5 MB 7.5 MB/s eta 0:00:00
+Requirement already satisfied: numpy<3,>=1.14 in ./carvenv/lib/python3.12/site-packages (from shapely) (2.1.2)
+Installing collected packages: shapely
+Successfully installed shapely-2.0.6
