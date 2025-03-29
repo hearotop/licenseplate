@@ -6,7 +6,12 @@
 
 # BlueJ files
 *.ctxt
-codw/codw/.idea/
+codw/codw/.idea
+CodeLicense/.idea
+CodeLicense/.gitignore
+CodeLicense/static
+
+*.mp4
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
